@@ -4,14 +4,12 @@ layout: default
 
 # [](#header-1)Hi there,
 
-<p>
 My name is Jack Moorin and this is my online portfolio where I showcase some of my best work. I have recently graduated from De Montfort 
 University achieving my Master's Degree in 'Intelligent Systems and Robotics' finishing with a Merit after having previously completed 
 undergraduate course in 'Video Games Programming' there and graduating with First-Class Honours. The nature of both of my degree's 
 has fully prepared me for a position within the games industry, requiring independent research, a high degree of self-motivation and 
 initiative as well as wide range of other skills including considerable experience with the  C#, C++, Lua and Python programming
 languages. I'm a very logic minded individual who enjoys using a methodical approach when working and solving problems.
-</p>
 
 My primary interest is the creation of video game applications, both designing and programming them as well as researching new and interesting 
 mechanics that have been implemented. My initial interest in working in the video games industry was first sparked when I was undertaking my 
