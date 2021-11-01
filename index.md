@@ -12,7 +12,7 @@ initiative as well as wide range of other skills including considerable experien
 languages. I'm a very logic minded individual who enjoys using a methodical approach when working and solving problems.
 </p>
 
-<p>
+<p id = "left">
 My primary interest is the creation of video game applications, both designing and programming them as well as researching new and interesting 
 mechanics that have been implemented. My initial interest in working in the video games industry was first sparked when I was undertaking my 
 entrance interview for the Henley College in 2015 and a teacher asked if I would have any interest in joining his brand new BTEC course in 
