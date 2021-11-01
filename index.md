@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-1)Hi there,
-
+<span class="credits left">
 My name is Jack Moorin and this is my online portfolio where I showcase some of my best work. I have recently graduated from De Montfort 
 University achieving my Master's Degree in 'Intelligent Systems and Robotics' finishing with a Merit after having previously completed 
 undergraduate course in 'Video Games Programming' there and graduating with First-Class Honours. The nature of both of my degree's 
@@ -33,4 +33,4 @@ Topology and Weight Evolving Artificial Neural Networks, achieving a Merit. I ha
 hope to be able to put to use the skills I’ve developed in the working world.
 
 Thank you for taking the time to view some of my work, I sincerely hope that you are impressed with the overall quality of work and if you 
-would like to get in touch please do not hesitate to send me an email at <span style="color: #17d5eb">jackmoorin9@gmail.com</span>.
+would like to get in touch please do not hesitate to send me an email at <span style="color: #17d5eb">jackmoorin9@gmail.com</span>.</span>
