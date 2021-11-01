@@ -12,7 +12,7 @@ initiative as well as wide range of other skills including considerable experien
 languages. I'm a very logic minded individual who enjoys using a methodical approach when working and solving problems.
 </p>
 
-<p id="right">
+<p>
 My primary interest is the creation of video game applications, both designing and programming them as well as researching new and interesting 
 mechanics that have been implemented. My initial interest in working in the video games industry was first sparked when I was undertaking my 
 entrance interview for the Henley College in 2015 and a teacher asked if I would have any interest in joining his brand new BTEC course in 
@@ -35,7 +35,7 @@ Topology and Weight Evolving Artificial Neural Networks, achieving a Merit. I ha
 hope to be able to put to use the skills I’ve developed in the working world.
 </p>
 
-<p id="right">
+<p id="left">
 Thank you for taking the time to view some of my work, I sincerely hope that you are impressed with the overall quality of work and if you 
 would like to get in touch please do not hesitate to send me an email at <span style="color: #17d5eb">jackmoorin9@gmail.com</span>.
 </p>
