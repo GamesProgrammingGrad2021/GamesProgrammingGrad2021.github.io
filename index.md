@@ -33,7 +33,7 @@ Topology and Weight Evolving Artificial Neural Networks, achieving a Merit. I ha
 hope to be able to put to use the skills I’ve developed in the working world.
 
 Thank you for taking the time to view some of my work, I sincerely hope that you are impressed with the overall quality of work and if you 
-would like to get in touch please do not hesitate to send me an email at <span style="color: #9c9c9c">jackmoorin9@gmail.com</span>.
+would like to get in touch please do not hesitate to send me an email at <span style="color: #17d5eb">jackmoorin9@gmail.com</span>.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
