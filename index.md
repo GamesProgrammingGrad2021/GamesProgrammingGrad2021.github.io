@@ -2,7 +2,9 @@
 layout: default
 ---
 
-**Hi there,**
+```**Hi there,**```
+
+# [](#header-1)Hi there,
 
 My name is Jack Moorin and this is my online portfolio where I showcase some of my best work. I have recently graduated from De Montfort 
 University achieving my Master's Degree in 'Intelligent Systems and Robotics' finishing with a Merit after having previously completed 
@@ -42,8 +44,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
