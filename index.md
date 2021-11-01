@@ -24,7 +24,7 @@ Distinction, I then pursued my now ignited passion by going on to study ‘Video
 gained considerable experience in C++ programming, received further experience in 3D modelling, this time using Maya, compiled more extensive 
 design documentation and presentation relating to another hypothetical game, jointly compiled with my course mate Adam Hubble a report on the 
 use of Fuzzy Logic in Artificial Intelligence within First-Person-Shooter games which was elected for inclusion within the academic 
-publication '[Fuzzy Logic Recent Applications and Developments](https://drive.google.com/file/d/1-AwLubafIXbJCovw54W6Ww9Pgjlfa5VB/view?usp=sharing)’)
+publication [Fuzzy Logic Recent Applications and Developments](https://drive.google.com/file/d/1-AwLubafIXbJCovw54W6Ww9Pgjlfa5VB/view?usp=sharing)
 book (page 165) and as part of a team of three developed a basic game engine using C++. I thoroughly enjoyed the 
 course and am proud to say that I achieved a First-Class Degree. Following my undergraduate I decided to continue my education and 
 wanting to specialise in artificial intelligence, undertook a Master’s Degree course in ‘Intelligent Systems and Robotics’ in which I 
