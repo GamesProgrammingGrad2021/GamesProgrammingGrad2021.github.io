@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-1)Hi there,
-<p>
+<p id="right">
 My name is Jack Moorin and this is my online portfolio where I showcase some of my best work. I have recently graduated from De Montfort 
 University achieving my Master's Degree in 'Intelligent Systems and Robotics' finishing with a Merit after having previously completed 
 undergraduate course in 'Video Games Programming' there and graduating with First-Class Honours. The nature of both of my degree's 
