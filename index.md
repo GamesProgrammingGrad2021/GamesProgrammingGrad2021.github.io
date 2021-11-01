@@ -10,7 +10,9 @@ undergraduate course in 'Video Games Programming' there and graduating with Firs
 has fully prepared me for a position within the games industry, requiring independent research, a high degree of self-motivation and 
 initiative as well as wide range of other skills including considerable experience with the  C#, C++, Lua and Python programming
 languages. I'm a very logic minded individual who enjoys using a methodical approach when working and solving problems.
+</p>
 
+<p id="right">
 My primary interest is the creation of video game applications, both designing and programming them as well as researching new and interesting 
 mechanics that have been implemented. My initial interest in working in the video games industry was first sparked when I was undertaking my 
 entrance interview for the Henley College in 2015 and a teacher asked if I would have any interest in joining his brand new BTEC course in 
@@ -31,7 +33,9 @@ Computational Intelligence in which I as part of a group used an implementation 
 series of pathfinding algorithms for use within game applications and completed my thesis on the effectiveness of population-based 
 Topology and Weight Evolving Artificial Neural Networks, achieving a Merit. I have learnt a lot during my formal education and now 
 hope to be able to put to use the skills I’ve developed in the working world.
+</p>
 
+<p id="right">
 Thank you for taking the time to view some of my work, I sincerely hope that you are impressed with the overall quality of work and if you 
 would like to get in touch please do not hesitate to send me an email at <span style="color: #17d5eb">jackmoorin9@gmail.com</span>.
 </p>
