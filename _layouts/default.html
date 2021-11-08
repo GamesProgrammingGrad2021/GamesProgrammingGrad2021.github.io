@@ -152,14 +152,17 @@
 			<h2 style="padding-top:5px; padding-left: 15px; padding-bottom: 10px; text-align: left; font-size: 20px;">Artificial Neural Networks and Deep Learning:</h2>
 			<div style="display: flex; align-items: center; width: 100% - 25px; margin-bottom: 10px; padding-left: 15px;">
 				<div style="padding-left: 0px; font-size: 16px; text-align: left; display: block; vertical-align: middle;">
-				<a href="https://drive.google.com/file/d/1X-fP9Mrm-ccgKDmvOfAfwK8EcRm2s_mT/view?usp=sharing"><img src="ANN Coursework Thumbnail.png" alt="ANN Coursework Thumbnail" style="height: 15%; width: 15%; vertical-align: middle; float: left; padding-right: 10px;"></a>
+				<a href="https://drive.google.com/file/d/1X-fP9Mrm-ccgKDmvOfAfwK8EcRm2s_mT/view?usp=sharing"><img src="ANN Coursework Thumbnail.png" alt="ANN Coursework Thumbnail" style="height: 12%; width: 12%; vertical-align: middle; float: left; padding-right: 10px;"></a>
 				This is an artificial neural network program which is trained on the 
 				<a href="http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html">KDD Cup 1999</a> dataset in an attempt to build a model which
 				would be able to classify connections into either <i>bad</i> potentially malicious connections or <i>good</i> normal connections.<br>
 				Before the network is first developed the data is analysed to assist in building an understanding of the dataset and therein infrom
 				the ideal structure of the model in order to provide optimal results. Attributes are labelled as either continuous or discrete by 
 				analysing the amount of distinct values for each attribute within the set. The dataset is then pruned in order to reduce it's 
-				overall 
+				overall complexity and therefore the amount of time needed to fully train the model. Attributes that don't change throughout the
+				dataset as well as those that are empty or contain <i>NA<i> values are removed as well as any which correlate strongly with at 
+				least one other attribute as their correlation indicates that their impact on the final output may be represented by the other 
+				collumn.<br>The dataset is then encoded and used to train a defined TernsorFlow Keras sequential model neural network.
 				</div>
 			</div>
 			
